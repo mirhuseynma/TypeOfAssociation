@@ -12,3 +12,4 @@ C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\obj
 C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\obj\Debug\net8.0\TypeOfAssociation.Practice.pdb
 C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\obj\Debug\net8.0\TypeOfAssociation.Practice.genruntimeconfig.cache
 C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\obj\Debug\net8.0\ref\TypeOfAssociation.Practice.dll
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\obj\Debug\net8.0\TypeOfAssociation.Practice.sourcelink.json
