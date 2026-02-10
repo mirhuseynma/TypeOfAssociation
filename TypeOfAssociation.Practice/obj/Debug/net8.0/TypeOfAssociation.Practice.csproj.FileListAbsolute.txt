@@ -1,0 +1,14 @@
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\bin\Debug\net8.0\TypeOfAssociation.Practice.exe
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\bin\Debug\net8.0\TypeOfAssociation.Practice.deps.json
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\bin\Debug\net8.0\TypeOfAssociation.Practice.runtimeconfig.json
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\bin\Debug\net8.0\TypeOfAssociation.Practice.dll
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\bin\Debug\net8.0\TypeOfAssociation.Practice.pdb
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\obj\Debug\net8.0\TypeOfAssociation.Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\obj\Debug\net8.0\TypeOfAssociation.Practice.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\obj\Debug\net8.0\TypeOfAssociation.Practice.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\obj\Debug\net8.0\TypeOfAssociation.Practice.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\obj\Debug\net8.0\TypeOfAssociation.Practice.dll
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\obj\Debug\net8.0\refint\TypeOfAssociation.Practice.dll
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\obj\Debug\net8.0\TypeOfAssociation.Practice.pdb
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\obj\Debug\net8.0\TypeOfAssociation.Practice.genruntimeconfig.cache
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\TypeOfAssociation.Practice\obj\Debug\net8.0\ref\TypeOfAssociation.Practice.dll
