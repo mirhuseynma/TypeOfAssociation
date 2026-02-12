@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{04160AB9-9FCE-44CF-A9DC-61694566BB93}|OOPBasicConceptsPractice\\OOPBasicConceptsPractice.csproj|solutionrelative:oopbasicconceptspractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04160AB9-9FCE-44CF-A9DC-61694566BB93}|OOPBasicConceptsPractice\\OOPBasicConceptsPractice.csproj|c:\\users\\abdul\\onedrive\\desktop\\typeofassociation\\oopbasicconceptspractice\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04160AB9-9FCE-44CF-A9DC-61694566BB93}|OOPBasicConceptsPractice\\OOPBasicConceptsPractice.csproj|solutionrelative:oopbasicconceptspractice\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04160AB9-9FCE-44CF-A9DC-61694566BB93}|OOPBasicConceptsPractice\\OOPBasicConceptsPractice.csproj|c:\\users\\abdul\\onedrive\\desktop\\typeofassociation\\oopbasicconceptspractice\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04160AB9-9FCE-44CF-A9DC-61694566BB93}|OOPBasicConceptsPractice\\OOPBasicConceptsPractice.csproj|solutionrelative:oopbasicconceptspractice\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04160AB9-9FCE-44CF-A9DC-61694566BB93}|OOPBasicConceptsPractice\\OOPBasicConceptsPractice.csproj|c:\\users\\abdul\\onedrive\\desktop\\typeofassociation\\oopbasicconceptspractice\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04160AB9-9FCE-44CF-A9DC-61694566BB93}|OOPBasicConceptsPractice\\OOPBasicConceptsPractice.csproj|solutionrelative:oopbasicconceptspractice\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +30,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DoctorService.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\TypeOfAssociation\\OOPBasicConceptsPractice\\DoctorService.cs",
-              "RelativeDocumentMoniker": "OOPBasicConceptsPractice\\DoctorService.cs",
-              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\TypeOfAssociation\\OOPBasicConceptsPractice\\DoctorService.cs",
-              "RelativeToolTip": "OOPBasicConceptsPractice\\DoctorService.cs",
-              "ViewState": "AgIAAEgAAAAAzszMzMwEwE8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T20:47:29.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\TypeOfAssociation\\OOPBasicConceptsPractice\\Doctor.cs",
-              "RelativeDocumentMoniker": "OOPBasicConceptsPractice\\Doctor.cs",
-              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\TypeOfAssociation\\OOPBasicConceptsPractice\\Doctor.cs",
-              "RelativeToolTip": "OOPBasicConceptsPractice\\Doctor.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAJAAAAAAAAAA==",
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\TypeOfAssociation\\OOPBasicConceptsPractice\\Calculation.cs",
+              "RelativeDocumentMoniker": "OOPBasicConceptsPractice\\Calculation.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\TypeOfAssociation\\OOPBasicConceptsPractice\\Calculation.cs",
+              "RelativeToolTip": "OOPBasicConceptsPractice\\Calculation.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T20:46:02.37Z",
+              "WhenOpened": "2026-02-12T00:52:35.708Z",
               "EditorCaption": ""
             },
             {
@@ -66,7 +49,7 @@
               "RelativeDocumentMoniker": "OOPBasicConceptsPractice\\Program.cs",
               "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\TypeOfAssociation\\OOPBasicConceptsPractice\\Program.cs",
               "RelativeToolTip": "OOPBasicConceptsPractice\\Program.cs",
-              "ViewState": "AgIAABQAAAAA/v//////vyIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAgZmZmZmYowBsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T20:44:41.285Z",
               "EditorCaption": ""

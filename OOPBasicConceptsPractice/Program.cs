@@ -11,7 +11,7 @@ namespace OOPBasicConceptsPractice
             Console.WriteLine("Zehmet olmasa verilmis melumatlari doldurun");
             Doctor[] doctors = new Doctor[countOfDoctor];
             for (int i = 0; i < countOfDoctor; i++)
-            {               
+            {
                 doctors[i] = new Doctor();
                 Console.WriteLine($"{i + 1}.Doktorun ad ve soyadi:");
                 doctors[i].FullName = Console.ReadLine();
@@ -24,11 +24,14 @@ namespace OOPBasicConceptsPractice
                 Console.WriteLine("\n");
 
             }
-            DoctorService doctur = new DoctorService();
+            //DoctorService doctur = new DoctorService();
             //doctur.GetAll(doctors);
             //doctur.SearchByFullname(doctors);
             //doctur.SortByAge(doctors);
-            doctur.AvarageByAge(doctors);
+            //doctur.AvarageByAge(doctors);
+
+            Calculation numbera = new Calculation(0,6,'*');
+            numbera.Calculate();
 
 
         }
