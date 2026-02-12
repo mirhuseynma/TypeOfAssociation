@@ -30,8 +30,8 @@ namespace OOPBasicConceptsPractice
             //doctur.SortByAge(doctors);
             //doctur.AvarageByAge(doctors);
 
-            Calculation numbera = new Calculation(0,6,'*');
-            numbera.Calculate();
+            //Calculation numbera = new Calculation(0,6,'/');
+            //numbera.Calculate();
 
 
         }

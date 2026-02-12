@@ -18,7 +18,8 @@ namespace OOPBasicConceptsPractice
             }
             set
             {
-                _firstnum = value;
+                
+                 _firstnum = value;
 
             }
         }
@@ -48,6 +49,7 @@ namespace OOPBasicConceptsPractice
             }
             set
             {
+                
                 _secondnum = value;
 
             }
@@ -62,23 +64,23 @@ namespace OOPBasicConceptsPractice
 
         public void Calculate()
         {
-            switch (Operation)
+            switch (_operat)
             {
                 case '+':
-                    Console.WriteLine(FirstNumber + SecondNumber);
+                    Console.WriteLine(_firstnum + _secondnum);
                     break;
                 case '-':
-                    Console.WriteLine(FirstNumber - SecondNumber);
+                    Console.WriteLine(_firstnum - _secondnum);
                     break;
                 case '*':
-                    Console.WriteLine(FirstNumber * SecondNumber);
+                    Console.WriteLine(_firstnum * _secondnum);
                     break;
                 case '/':
-                    if(FirstNumber /  SecondNumber == 0) Console.WriteLine("ededlerden bi 0 olduguna gore ve 0 a bolunme olmadigina gore bolunme ugursuzdur");
-                    else Console.WriteLine(FirstNumber / SecondNumber); 
+                    if (_firstnum != 0 && _secondnum != 0)
+                        Console.WriteLine(_firstnum / _secondnum);
+                    else Console.WriteLine("0 a bolunme yoxdur");
                     break;
-                default: Console.WriteLine("operatoru duzgun daxil edin");
-                    break;
+                
             }
         }
     }

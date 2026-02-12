@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOPBasicConceptsPractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d123b0f5b738b4054872bd5009bf6de9bf7acb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09b26b45fc806798236b890e31f2d0ace6dde745")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOPBasicConceptsPractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOPBasicConceptsPractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
