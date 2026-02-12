@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\abdul\\OneDrive\\Desktop\\TypeOfAssociation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{04160AB9-9FCE-44CF-A9DC-61694566BB93}|OOPBasicConceptsPractice\\OOPBasicConceptsPractice.csproj|c:\\users\\abdul\\onedrive\\desktop\\typeofassociation\\oopbasicconceptspractice\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04160AB9-9FCE-44CF-A9DC-61694566BB93}|OOPBasicConceptsPractice\\OOPBasicConceptsPractice.csproj|solutionrelative:oopbasicconceptspractice\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04160AB9-9FCE-44CF-A9DC-61694566BB93}|OOPBasicConceptsPractice\\OOPBasicConceptsPractice.csproj|c:\\users\\abdul\\onedrive\\desktop\\typeofassociation\\oopbasicconceptspractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04160AB9-9FCE-44CF-A9DC-61694566BB93}|OOPBasicConceptsPractice\\OOPBasicConceptsPractice.csproj|solutionrelative:oopbasicconceptspractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\TypeOfAssociation\\OOPBasicConceptsPractice\\User.cs",
+              "RelativeDocumentMoniker": "OOPBasicConceptsPractice\\User.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Desktop\\TypeOfAssociation\\OOPBasicConceptsPractice\\User.cs",
+              "RelativeToolTip": "OOPBasicConceptsPractice\\User.cs",
+              "ViewState": "AgIAACMAAADA//////8wwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T07:55:15.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Desktop\\TypeOfAssociation\\OOPBasicConceptsPractice\\Program.cs",
               "RelativeDocumentMoniker": "OOPBasicConceptsPractice\\Program.cs",
