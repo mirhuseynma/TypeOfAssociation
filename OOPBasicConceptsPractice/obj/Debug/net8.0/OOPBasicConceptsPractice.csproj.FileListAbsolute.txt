@@ -1,0 +1,15 @@
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\OOPBasicConceptsPractice\bin\Debug\net8.0\OOPBasicConceptsPractice.exe
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\OOPBasicConceptsPractice\bin\Debug\net8.0\OOPBasicConceptsPractice.deps.json
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\OOPBasicConceptsPractice\bin\Debug\net8.0\OOPBasicConceptsPractice.runtimeconfig.json
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\OOPBasicConceptsPractice\bin\Debug\net8.0\OOPBasicConceptsPractice.dll
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\OOPBasicConceptsPractice\bin\Debug\net8.0\OOPBasicConceptsPractice.pdb
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\OOPBasicConceptsPractice\obj\Debug\net8.0\OOPBasicConceptsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\OOPBasicConceptsPractice\obj\Debug\net8.0\OOPBasicConceptsPractice.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\OOPBasicConceptsPractice\obj\Debug\net8.0\OOPBasicConceptsPractice.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\OOPBasicConceptsPractice\obj\Debug\net8.0\OOPBasicConceptsPractice.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\OOPBasicConceptsPractice\obj\Debug\net8.0\OOPBasicConceptsPractice.sourcelink.json
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\OOPBasicConceptsPractice\obj\Debug\net8.0\OOPBasicConceptsPractice.dll
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\OOPBasicConceptsPractice\obj\Debug\net8.0\refint\OOPBasicConceptsPractice.dll
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\OOPBasicConceptsPractice\obj\Debug\net8.0\OOPBasicConceptsPractice.pdb
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\OOPBasicConceptsPractice\obj\Debug\net8.0\OOPBasicConceptsPractice.genruntimeconfig.cache
+C:\Users\abdul\OneDrive\Desktop\TypeOfAssociation\OOPBasicConceptsPractice\obj\Debug\net8.0\ref\OOPBasicConceptsPractice.dll
